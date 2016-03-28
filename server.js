@@ -6,7 +6,7 @@ User.prototype.hello = function(who) {
     console.log("Hello, " + who.name);
 };
 
-var vasya = new User("Вася");
-var petya = new User("Петя");
+var vasya = new User("Р’Р°СЃСЏ");
+var petya = new User("РџРµС‚СЏ");
 
 vasya.hello(petya);
